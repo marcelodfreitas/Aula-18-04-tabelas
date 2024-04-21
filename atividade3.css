@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: grid;
+  width: 100%;
+  height: 80vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+table {
+  width: 300px;
+  height: 100px;
+  background-color: white;
+  border-collapse: collapse;
+}
+
+section.top {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 5%;
+}
+
+section.inferior {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+td {
+  border: 1px solid;
+}
+
+th {
+  border: 1px solid;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}

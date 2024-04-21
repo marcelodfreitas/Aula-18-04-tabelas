@@ -1,0 +1,22 @@
+table {
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+    height: 100%;
+}
+
+#topo {
+    padding: 30px;
+}
+
+#conteudo {
+    padding: 150px;
+}
+
+#menu {
+    padding: 0 60px;
+}
+
+#rodape {
+    padding: 15px;
+}
